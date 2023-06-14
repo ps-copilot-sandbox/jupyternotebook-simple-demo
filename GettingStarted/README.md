@@ -10,7 +10,7 @@ This is a demo you can start with to get familiar with Copilot for Jupyter Noteb
 - [GitHub Copilot](https://copilot.github.com/)
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-![Jupyter Notebook Extension](./images/jupyterlab-extension-prerequisite.jpg)
+![Jupyter Notebook Extension](../images/jupyterlab-extension-prerequisite.jpg)
 
 ## Steps
 
