@@ -8,6 +8,9 @@ This is a demo you can start with to get familiar with Copilot for Jupyter Noteb
 - Jupyter Notebook Extension for VS Code
 - Python pip for installing Python packages 
 - [GitHub Copilot](https://copilot.github.com/)
+  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+![Jupyter Notebook Extension](./images/jupyterlab-extension-prerequisite.jpg)
 
 ## Steps
 
