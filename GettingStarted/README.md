@@ -75,7 +75,7 @@ This time, though, we will try to find the maximum value from the table. You can
 
 After you are done, hit `Execute Cell and Below` again. You will see the maximum value printed out in the output section.
 
-![Add codes for finding max value](./images/12_CompleteCodeMaxFinding.jpg)
+![Add codes for finding max value](./images/12_CompleteCodeMaxfinding.jpg)
 
 ### Step 5: Last exercise to plot the data
 
