@@ -2,7 +2,7 @@
 
 This contains a collection of demos for Copilot for Jupyter Notebooks. This is going to be useful for customers who are interested in using Copilot for Jupyter Notebooks because they are in AI/ML space and want to use Copilot to generate code for their notebooks. 
 
-> One limitation is that Copilot is only available for VS Code, Visual Studio IDE, NeoVim, and IntelliJ and GitHub Copilot is not available for Jupyter Notebooks.
+> GitHub Copilot is only available for VS Code, Visual Studio IDE, NeoVim, and IntelliJ and GitHub Copilot is not available for Jupyter Notebooks.
 
 ## Prerequisites
 
