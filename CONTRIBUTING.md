@@ -7,7 +7,7 @@ Try to be descriptive as much as possible! Capture screenshots and link to your 
 ## How to add a new demo
 
 1. Create a new branch from `main` branch. The branch name should be descriptive and should not contain any spaces. For example, `create-new-demo` is a good name for a branch.
-2. Create a new folder for your demo. The folder name should be descriptive and should not contain any spaces. For example, `GettingStarted` is a good name for a folder.
+2. Create a new folder for your demo under `Demo`. The folder name should be descriptive and should not contain any spaces. For example, `GettingStarted` is a good name for a folder.
 3. Add a file named `README.md` in the folder. This file should contain the demo instructions. You can use [this template](README_TEMPLATE.md) as a starting point.
 4. If you have any script, you need to add to the folder. For example, if you have a notebook, you need to add it to the folder. You can add any other files that are needed for the demo. If you have images, you can create a new folder called `images` in your own folder, and add images to that folder. Link the images to your documentation.
 5. Update `README.md` in the root of repository to update the index of demos.
