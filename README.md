@@ -14,7 +14,7 @@ All of demos here will require the following as minimum requirements. Some exerc
 - Jupyter Notebook Extension for VS Code. You need to install the following extension in VS Code.
   - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
-![Jupyter Notebook Extension](https://github.com/copilot-training-pex/copilot-demo-jupyternotebook/blob/main/images/jupyterlab-extension-prerequisite.jpg)
+![Jupyter Notebook Extension](./images/jupyterlab-extension-prerequisite.jpg)
 
 ## Demos
 
